@@ -82,6 +82,8 @@ export default {
 </script>
 
 <style>
+
+
 .storckTab_wrapper {
   display: flex;
   max-width: 920px;
@@ -127,6 +129,50 @@ export default {
   border: 1px solid #ccc;
   border-radius: 10px;
 }
-
+@media (max-width: 640px) {
+    .storckTab_wrapper {
+      display: flex;
+      max-width: 640px;
+      line-height: 40px;
+      margin: 0 auto;
+      overflow: auto;
+    }
+    .stockTabCombo_wrapper {
+      /* display: inline-block; */
+      text-align: center;
+      padding-bottom: 40px;
+    }
+    .stockTabCombo_wrapper .stockTabCombo_item> a {
+      font-size: 12px;
+    }
+    
+    .selectButtons_span { 
+      padding: 8px 10px;
+    }
+    .content-topSide_store-phone-availability_content {
+    margin: 0 auto;
+    display: block;
+    max-width: 920px;
+    align-items: center;
+    }
+    .content-topSide_store-phone-availability_wrapper {
+      padding: 0;
+    }
+    .content-topSide_store-phone-availability_location {
+      display: block;
+      text-align: center;
+    }
+    .content-topSide_store-phone-availability_color {
+      display: flex;
+      text-align: center;
+      padding-left: 0px;
+      
+    }
+    .content-topSide_store-phone-availability_color ul{
+      margin: 0 auto;
+    }
+}
+   
 
 </style>
+    

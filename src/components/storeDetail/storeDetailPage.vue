@@ -141,7 +141,7 @@ export default {
   .content-topSide_store-phone-availability_location {
     flex: 1;
     text-align: left;
-    margin-top: 20px;
+    margin: 20px 0;
   }
   .content-topSide_store-phone-availability_content ul{
     padding-left: 0px;
@@ -238,4 +238,70 @@ export default {
   .store_area_table_icon_item .material-icons {
     font-size: 18px;
   }
+
+
+  @media (max-width: 640px) {
+    
+    .content-topSide_store-phone-availability_content {
+    margin: 0 auto;
+    display: block;
+    max-width: 920px;
+    align-items: center;
+    }
+    .content-topSide_store-phone-availability_wrapper {
+      padding: 0;
+    }
+    .content-topSide_store-phone-availability_location {
+      display: block;
+      text-align: center;
+    }
+    .target_link {
+      margin: 0 8px;
+      font-size: 16px;
+    }
+    a.router-link-exact-active.active {
+      padding-bottom: 5px;
+    }
+    .content-topSide_store-phone-availability_color {
+      display: flex;
+      text-align: center;
+      padding-left: 0px;
+      
+    }
+    .content-topSide_store-phone-availability_color ul{
+      margin: 0 auto;
+    }
+  
+    .split_line_position {
+      right: 20%;
+      left: 25%;
+    }
+    .content-topSide {
+      padding: 30px 8px 0 8px;
+    }
+    .store-phone-availability_icon_item {
+      flex: auto;
+      margin: 0 auto;
+    }
+    .content-topSide_store-phone-availability_icon span {
+      padding: 0;
+    }
+    .store_area_table_item {
+      position: relative;
+    }
+
+    .view_map_button {
+      position: absolute;
+      right: 0;
+      top: 0;
+      margin: 0;
+    }
+
+    .store_area_table_content table td {
+      display: block;
+    }
+    .store_area_table_item:last-child {
+      text-align: center;
+    }
+}
 </style>

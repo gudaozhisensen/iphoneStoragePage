@@ -73,4 +73,35 @@ export default {
     padding-right: 5px;
     vertical-align: top;
   }
+
+  @media (max-width: 640px) {
+    
+    .content-topSide_store-phone-availability_content {
+    margin: 0 auto;
+    display: block;
+    max-width: 920px;
+    align-items: center;
+    }
+    .content-topSide_store-phone-availability_wrapper {
+      padding: 0;
+    }
+    .content-topSide_store-phone-availability_location {
+      display: block;
+      text-align: center;
+    }
+    .content-topSide_store-phone-availability_color {
+      display: flex;
+      text-align: center;
+      padding-left: 0px;
+      
+    }
+    .content-topSide_store-phone-availability_color ul{
+      margin: 0 auto;
+    }
+  
+    .split_line_position {
+      right: 20%;
+      left: 25%;
+    }
+}
 </style>
