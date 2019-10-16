@@ -1,0 +1,776 @@
+{
+  "code": "1",
+  "err": "",
+  "store": [
+    {
+      "hong_kong":[
+      {
+      "storex": "114.183033",
+      "storename": "Causeway Bay",
+      "storeadd": "G/F, 58 Percival Street",
+      "storey": "22.279586",
+      "skulist": [{
+        "avail": "YELLOW",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "RED",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "GREEN",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "CBS"
+    },
+     {
+      "storex": "114.174728",
+      "storename": "Wanchai",
+      "storeadd": "No. 172 Johnston Road, Mei Wah Building",
+      "storey": "22.276727",
+      "skulist": [{
+        "avail": "RED",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "GREEN",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "RED",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "WCS"
+    }, {
+      "storex": "114.1579161",
+      "storename": "Central",
+      "storeadd": "Shop 1021, Podium Level 1, ifc mall, 1 Harbour View Street",
+      "storey": "22.2850053",
+      "skulist": [{
+        "avail": "YELLOW",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "RED",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "RED",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "IFC"
+    }, {
+      "storex": "114.221699",
+      "storename": "Sai Wan Ho",
+      "storeadd": "Shop 12A, G/F, Tai On building, 57-58 Shau Kei Wan Road",
+      "storey": "22.282524",
+      "skulist": [{
+        "avail": "RED",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "GREEN",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "RED",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "SWH"
+    }, {
+      "storex": "114.23687",
+      "storename": "Chai Wan",
+      "storeadd": "Shop 325, Level 3, New Jade Building Arcade, 233 Chai Wan Road",
+      "storey": "22.264475",
+      "skulist": [{
+        "avail": "YELLOW",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "RED",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "YELLOW",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "CWS"
+    }, {
+      "storex": "114.185854",
+      "storename": "Causeway Bay",
+      "storeadd": "Shop G2, G/F, McDonald's Bldg, 46-54 Yee Wo Street",
+      "storey": "22.279604",
+      "skulist": [{
+        "avail": "RED",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "YELLOW",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "RED",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "CWB"
+    }, {
+      "storex": "114.1548805",
+      "storename": "Aberdeen",
+      "storeadd": "Shop G26-27, G/F, Port Centre, 38 Chengtu Road",
+      "storey": "22.248884",
+      "skulist": [{
+        "avail": "YELLOW",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "RED",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "YELLOW",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "ABD"
+    }, {
+      "storex": "114.155245",
+      "storename": "Central",
+      "storeadd": "Shop No.2, G/F, Unicorn Trade Centre, No. 127-131 Des Voeux Road (next to Hang Seng Bank Bldg)",
+      "storey": "22.285043",
+      "skulist": [{
+        "avail": "RED",
+        "code": "MT942ZA/A",
+        "name": "Space Gray"
+      }, {
+        "avail": "RED",
+        "code": "MT952ZA/A",
+        "name": "Silver"
+      }, {
+        "avail": "GREEN",
+        "code": "MT962ZA/A",
+        "name": "Gold"
+      }],
+      "storecode": "CTL"
+    }
+  ]},
+  {
+    "kowloon": [
+      {
+        "storex": "114.188389",
+        "storename": "Hunghom",
+        "storeadd": "G/F, Shop 7A, Ki Fu Bldg , 36-60F Tak Man Street",
+        "storey": "22.305539",
+        "skulist": [
+          {
+            "avail": "RED",
+  
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "GREEN",
+  
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "HHS"
+      },
+      {
+        "storex": "114.202285",
+        "storename": "Diamond Hill",
+        "storeadd": "Shop 247, Level 2,Plaza Hollywood, Diamond Hill",
+        "storey": "22.340757",
+        "skulist": [
+          {
+            "avail": "GREEN",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "GREEN",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "PHW"
+      },
+      {
+        "storex": "114.1725347",
+        "storename": "Tsim Sha Tsui",
+        "storeadd": "Shop 4 & 5, G/F, Tern Plaza, No. 5 Cameron Road, Tsim Sha Tsui, Kowloon",
+        "storey": "22.2988324",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "GREEN",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "TSB"
+      },
+      {
+        "storex": "114.1677038",
+        "storename": "Tsim Sha Tsui",
+        "storeadd": "Shop 4010-1, Level 4, Gateway Arcade, Harbour City, Tsim Sha Tsui, Kowloon",
+        "storey": "22.297994",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "GREEN",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "GTS"
+      },
+      {
+        "storex": "114.170474",
+        "storename": "Mongkok",
+        "storeadd": "Shop 5&6, G/F, Pakpolee Commercial Centre, No.1A Sai Yeung Choi Street South (Opposite to Ginza Plaza)",
+        "storey": "22.316247",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "MGK"
+      },
+      {
+        "storex": "114.161947",
+        "storename": "Sham Shui Po",
+        "storeadd": "Shop A2, G/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Road",
+        "storey": "22.331281",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "SSP"
+      },
+      {
+        "storex": "114.170663",
+        "storename": "Jordan",
+        "storeadd": "Shop F, G/F, Lucky House, 18-24 Jordan Road",
+        "storey": "22.305196",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "JRD"
+      },
+      {
+        "storex": "114.169177",
+        "storename": "Mongkok",
+        "storeadd": "Shop G20, G/F, Pioneer Centre, 750 Nathan Road",
+        "storey": "22.322556",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "MPC"
+      },
+      {
+        "storex": "114.170123",
+        "storename": "Mongkok",
+        "storeadd": "Shop No.1, G/F, Sim City of Chung Kiu Commercial Bldg, No. 47-51 Shantung St (Near Sai Yeung Choi Street South)",
+        "storey": "22.31771",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "MKC"
+      },
+      {
+        "storex": "114.212102",
+        "storename": "Kowloon Bay",
+        "storeadd": "Shop P49-50, Telford Plaza 1",
+        "storey": "22.322024",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "KBT"
+      },
+      {
+        "storex": "114.225361",
+        "storename": "Kwun Tong",
+        "storeadd": "Shop UC-29, Upper Concourse Level, APM, Millennium City 5, 418 Kwun Tong Road, Kwun Tong (near Calvin Klein Jeans)",
+        "storey": "22.311993",
+        "skulist": [
+          {
+            "avail": "RED",
+            "code": "MT712ZA/A",
+            "name": "Space Gray"
+          },
+          {
+            "avail": "RED",
+            "code": "MT722ZA/A",
+            "name": "Silver"
+          },
+          {
+            "avail": "RED",
+            "code": "MT732ZA/A",
+            "name": "Gold"
+          }
+        ],
+        "storecode": "APM"
+      }
+    ]
+  },
+  {
+    "new_territories":[
+    {
+      "storex": "114.116685",
+      "storename": "Tsuen Wan",
+      "storeadd": "G/F,Dung Fat Mansion,12 Dung Fat Street",
+      "storey": "22.372425",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "TWN"
+    },
+    {
+      "storex": "114.127917",
+      "storename": "Kwai Chung",
+      "storeadd": "Shop 119, 2/F, Kwai Chung Plaza, 7-11 Kwai Foo Road",
+      "storey": "22.357835",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "KCP"
+    },
+    {
+      "storex": "114.127086",
+      "storename": "Kwai Chung",
+      "storeadd": "Shop 138, 1/F, Metroplaza ,223 Hing Fong Road, Kwai Fong,New Territories",
+      "storey": "22.357071",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "KMP"
+    },
+    {
+      "storex": "114.117633",
+      "storename": "Tsuen Wan",
+      "storeadd": "Shop 2046, 2/F, KOLOUR.Tsuen Wan I, 68 Chung On Street, Tsuen Wan",
+      "storey": "22.370064",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "TWS"
+    },
+    {
+      "storex": "114.265315",
+      "storename": "Tseung Kwan O",
+      "storeadd": "Shop 219, Level 2, East Point City, 8 Chung Wa Road",
+      "storey": "22.316331",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "TKS"
+    },
+    {
+      "storex": "114.0278253",
+      "storename": "Yuen Long",
+      "storeadd": "Shop 3, G/F,Yuen Long Commercial Centre, Nos. 18-24 Kau Yuk Road",
+      "storey": "22.4431713",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "YLK"
+    },
+    {
+      "storex": "114.167473",
+      "storename": "Tai Po",
+      "storeadd": "Shop 30, G/F, Fortune Plaza, No. 4 On Chee Rd",
+      "storey": "22.452443",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "TPS"
+    },
+    {
+      "storex": "114.231806",
+      "storename": "Ma On Shan",
+      "storeadd": "Shop 3212, Level 3, MOSTown, 18 On Luk Street,Ma On Shan,New Territories",
+      "storey": "22.423776",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "MOS"
+    },
+    {
+      "storex": "114.127782",
+      "storename": "Sheung Shui",
+      "storeadd": "Shop 431B, Level 4, Landmark North, 39 Lung Sum Avenue",
+      "storey": "22.502689",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "SSI"
+    },
+    {
+      "storex": "114.18868",
+      "storename": "Shatin",
+      "storeadd": "Shop 615A, Level 6, Phase 1, New Town Plaza, Shatin",
+      "storey": "22.381315",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "NTS"
+    },
+    {
+      "storex": "114.0353223",
+      "storename": "Yuen Long",
+      "storeadd": "Shop A313b,Level 3,YOHO Mall II,8 Long Yat Road,Yuen Long",
+      "storey": "22.4459503",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "YOS"
+    },
+    {
+      "storex": "113.976951",
+      "storename": "Tuen Mun",
+      "storeadd": "Shop No. G129, G/F,  Tuen Mun Town Plaza Phase 1, Tuen Mun , New Territories",
+      "storey": "22.393115",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "TMP"
+    },
+    {
+      "storex": "114.028241",
+      "storename": "Yuen Long",
+      "storeadd": "Shop no. G03, G/F., Yuen Long Landmark, 123 Castle Peak Road, Yuen Long",
+      "storey": "22.444715",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "YLS"
+    },
+    {
+      "storex": "114.258196",
+      "storename": "Tseung Kwan O",
+      "storeadd": "UG031-032 , MCP Central, 8 Yan King Road,",
+      "storey": "22.323138",
+      "skulist": [
+        {
+          "avail": "RED",
+          "code": "MT712ZA/A",
+          "name": "Space Gray"
+        },
+        {
+          "avail": "RED",
+          "code": "MT722ZA/A",
+          "name": "Silver"
+        },
+        {
+          "avail": "RED",
+          "code": "MT732ZA/A",
+          "name": "Gold"
+        }
+      ],
+      "storecode": "MCP"
+    }
+  ]
+}
+
+  ],
+  
+  "status": "ok"
+}
